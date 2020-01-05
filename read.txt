@@ -1,0 +1,5 @@
+connection 
+
+2 irsensores connected to port 16 and 18
+
+usb camera connected to camera port 0
